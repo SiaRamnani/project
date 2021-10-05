@@ -1,8 +1,8 @@
 body
 
 {
-  color:white;
-  background: pink;
+  color:black;
+  background: aqua;
   
 }
 
@@ -22,5 +22,5 @@ body
 
 #result_object_name, #result_object_accuracy, .name_of_objects
 {
-  color: yellow;
+  color: darkblue;
 }
